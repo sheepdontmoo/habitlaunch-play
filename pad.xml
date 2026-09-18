@@ -83,7 +83,7 @@ Package: com.sheepdontmoo.habitlaunch. Developer: supadesign. Free to install wi
       <Application_Order_URL>https://play.google.com/store/apps/details?id=com.sheepdontmoo.habitlaunch</Application_Order_URL>
       <Application_Screenshot_URL>https://play-lh.googleusercontent.com/ME26cI7d7d7GGyUZt4ph57o7rvZdqrRvk5DSDfaLE5XJGv3ajwbzLUxCUoRKMVF0UM2TQygbqGy3584njwZHBCE=w1080</Application_Screenshot_URL>
       <Application_Icon_URL>https://play-lh.googleusercontent.com/-b-PbZD7d_A2LXUcUErNi3kvQ6H66DZlbpS6Lwy2ZMXoD2LlcCgYzmq_wCSRvOOkWHsZ33t-CWpVcN5PrC8Q5Q=s512-rw</Application_Icon_URL>
-      <Application_XML_File_URL>https://raw.githack.com/sheepdontmoo/habitlaunch-play/main/pad.xml</Application_XML_File_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/sheepdontmoo/habitlaunch-play/main/pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
       <Primary_Download_URL>https://play.google.com/store/apps/details?id=com.sheepdontmoo.habitlaunch</Primary_Download_URL>
